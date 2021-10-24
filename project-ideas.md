@@ -1,4 +1,4 @@
-## Porject Ideas
+## Project Ideas
 
 #### Smart Traffic Lights 
 
